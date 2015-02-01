@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Congressos">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/implementacao"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/TestUnidade"/>
+        <property name="context-root" value="Congressos"/>
+        <property name="java-output-path" value="/Congressos/build/classes"/>
+    </wb-module>
+</project-modules>
